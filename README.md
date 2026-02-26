@@ -21,22 +21,36 @@ Dean’s List: Semester 1 (9.00), Semester 2 (9.20)
 ---
 
 ## 🌐 Socials
-- LinkedIn: https://linkedin.com/in/anushka0904  
-- GitHub: https://github.com/anu091104  
-- Email: anushkasri0904@gmail.com  
+<p>
+<a href="https://linkedin.com/in/anushka0904"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:anushkasri0904@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/anu091104"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-Python • C • C++ • Java • JavaScript • SQL • HTML • CSS  
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,mysql" />
+</p>
 
 ### 🧠 ML / AI Libraries
-Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • TensorFlow • PyTorch • OpenCV  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • OpenCV  
+
+---
 
 ### 🌐 Frameworks & Tools
-Flask • Next.js • Tailwind CSS • Streamlit • MongoDB • MySQL • Git • GitHub  
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nextjs,tailwind,streamlit,mongodb,git,github" />
+</p>
+
+---
 
 ### 📚 Core Concepts
 Machine Learning • NLP • Computer Vision • Recommender Systems  
@@ -47,40 +61,38 @@ DSA • OOP • DBMS • Operating Systems • Cloud Computing
 ## 🚀 Projects
 
 ### 📦 Retail Inventory Optimization
-- Built demand forecasting system using Prophet  
-- Automated EOQ, safety stock, and reorder point calculations  
-- Integrated price sensitivity model  
-- Developed interactive Streamlit dashboard  
+- Demand forecasting using Prophet  
+- EOQ, Safety Stock, Reorder Point automation  
+- Price sensitivity model  
+- Streamlit dashboard  
 
 ### 📈 Stock Sentiment Analysis
-- Designed NLP pipeline for cleaning and feature extraction  
-- Trained Random Forest classifier for sentiment prediction  
-- Evaluated using accuracy and ROC metrics  
-- Visualized trends and feature importance  
+- NLP pipeline with feature extraction  
+- Random Forest classifier  
+- Accuracy & ROC evaluation  
 
 ### 🏎️ F1 Race Winner Prediction
-- Engineered driver, team, and circuit features  
-- Trained ML models to predict winners and podium finishes  
-- Visualized model performance  
+- Feature engineering from race data  
+- ML models for winner & podium prediction  
 
 ### 🧵 CraftMatch (Full-Stack AI System)
-- Flask + SQLAlchemy backend with structured workflows  
-- Built artisan recommendation engine  
-- Developed responsive Next.js frontend  
+- Flask + SQLAlchemy backend  
+- Recommendation engine  
+- Next.js + Tailwind frontend  
 
 ### 💰 Expense Tracker Web App
-- Full-stack CRUD application  
-- REST APIs with Flask and MongoDB  
-- Matplotlib dashboards for expense trends  
+- Flask REST APIs  
+- MongoDB aggregation pipelines  
+- Data visualization dashboards  
 
 ---
 
 ## 📜 Certifications
-- Red Hat Academy (RH124, RH134)  
-- Cisco Python Essentials  
-- Oracle SQL Fundamentals  
-- Microsoft Azure AI Fundamentals  
-- NPTEL – Design and Analysis of Algorithms  
+Red Hat Academy (RH124, RH134)  
+Cisco Python Essentials  
+Oracle SQL Fundamentals  
+Microsoft Azure AI Fundamentals  
+NPTEL – Design and Analysis of Algorithms  
 
 ---
 
