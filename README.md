@@ -1,18 +1,18 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:C9A66B&height=190&section=header&text=Anushka%20Srivastava&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Backend%20%E2%80%A2%20Full-Stack%20Engineer&descSize=16&descAlignY=58" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:C9A66B&height=190&section=header&text=Anushka%20Srivastava&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=58" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://anu091104.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9A66B&center=true&vCenter=true&width=640&lines=Final-year+B.Tech+CSE+(AI%2FML)+%40+Manipal+University+Jaipur;I+build+ML+pipelines+and+the+APIs+that+serve+them;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+React+%E2%80%A2+PyTorch;Open+to+SWE+%2F+ML+internships+%E2%80%94+2026-27" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C9A66B&center=true&vCenter=true&width=720&height=40&lines=B.Tech+CSE+(AI%2FML)+%40+Manipal+University+Jaipur;I+build+APIs%2C+data+pipelines+%26+ML+systems;FastAPI+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+Python;Open+to+SDE+%2F+Backend+%2F+ML+roles" alt="typing intro"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://anu091104.github.io"><img src="https://img.shields.io/badge/Portfolio-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/anushka0904/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="anushkasri0904@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:anushkasri0904@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://anu091104.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
@@ -22,23 +22,23 @@
 
 ```python
 class Anushka:
-    role      = "Final-year B.Tech CSE (AI/ML) — Manipal University Jaipur"
-    gpa       = "8.73 / 10  •  Dean's List (Sem 1 & 2)"
-    focus     = ["Backend Engineering", "ML Pipelines", "Full-Stack Apps"]
-    currently = "Analytics & Insights Intern @ Titan Company (Watches)"
-    research  = "Contributing to a climate-aware AI system (University R&D)"
-    open_to   = "SWE / Backend / ML internships"
+    role      = "B.Tech CSE (AI/ML) — Manipal University Jaipur, class of 2027"
+    gpa       = "8.73 / 10  •  Dean's List"
+    focus     = ["Backend Engineering", "Data Pipelines", "Applied ML"]
+    currently = "Research Contributor — climate-aware AI system, MUJ R&D Cell"
+    certified = ["Red Hat RH124/RH134", "Azure AI/ML Fundamentals", "Oracle SQL"]
+    open_to   = "SDE / Backend / Full-Stack / ML / Data roles"
 ```
 
 ---
 
 ### 💼 Experience
 
-| Role | Organisation | What I did |
+| Role | Organisation | Highlights |
 |---|---|---|
-| **Analytics & Insights Intern** | Titan Company — Watches | Python scraping pipelines across Amazon, Flipkart & Myntra; SKU-level competitive benchmarking; brand-perception studies |
-| **Backend Development Intern** | TechLearn Solutions *(Mar – May 2026)* | Backend services and APIs with Python |
-| **Research Contributor** | University R&D, MUJ | Climate-aware AI system |
+| **Research Contributor (AI/ML)** | R&D Cell, Manipal University Jaipur<br><sub>Jan 2026 – Present</sub> | Climate-aware AI system fusing satellite, weather & soil data (**100K+ observations**); built **5+ stage** automated ML workflows for geospatial & time-series data |
+| **Analytics & Insights Intern** | Titan Company — Watches Division<br><sub>Jun – Jul 2026</sub> | Python scraping pipelines validating **2,000+ listings** across Amazon, Flipkart & Myntra (**34 brands**); competitor benchmarking across **40+ parameters** |
+| **Backend Development Intern** | TechLearn Solutions<br><sub>Mar – May 2026</sub> | **10+ REST endpoints** in Node.js / Express / MongoDB for assessments, RBAC & college management; indexed schemas with pagination |
 
 ---
 
@@ -48,76 +48,59 @@ class Anushka:
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ [API Sentinel](https://github.com/anu091104/api-sentinel)
-Full-stack API reliability monitoring platform — tracks uptime and latency of endpoints and surfaces failures on a live dashboard.
+#### 🛰️ [API Sentinel](https://github.com/anu091104/Api-sentinel-version2)
+Real-time API reliability monitor. A scheduler pings every endpoint each 60 s and the dashboard shows live status, 24-h uptime, failure rate and latency trends.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+[**Live demo →**](https://api-sentinel-version2.vercel.app/) &nbsp;•&nbsp; [Code](https://github.com/anu091104/Api-sentinel-version2)
+
 </td>
 <td width="50%" valign="top">
 
-#### 💳 [PayPilot](https://github.com/anu091104/paypilot)
-AI commerce & payment agent built for the Razorpay Buildathon — with a paper-receipt UI and Customer/Merchant copy toggle.
+#### 🔎 [RepoLens](https://github.com/anu091104/Github-Repo-Explainer)
+Paste any public GitHub repo and get an AI-generated brief: purpose, architecture, detected tech stack, how to run it, and likely interview questions.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[**Live demo →**](https://paypilot-ai-omega.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔐 [EscrowFlow](https://github.com/anu091104/escrowflow)
-Milestone-based escrow dApp with multi-party payment splitting and on-chain dispute resolution.
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📈 [Stock Sentiment Analysis](https://github.com/anu091104/stock-sentiment-analysis)
-NLP + time-series pipeline on real Yahoo Finance data — VADER/TextBlob sentiment features, proper train/test methodology, Random Forest with ROC evaluation.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+[Code](https://github.com/anu091104/Github-Repo-Explainer)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 [Retail Inventory Optimization](https://github.com/anu091104/retail-inventory-optimization)
-Prophet demand forecasting with automated EOQ, safety-stock and reorder-point calculation, plus a price-sensitivity model — all in a Streamlit dashboard.
+#### 🧵 [CraftMatch](https://github.com/aayushisabharwal/GenAi-Exchange-Hackathon-)
+Two-sided platform matching artisans with businesses, scoring on location, preferences and performance. *Team project, GenAI Exchange Hackathon.*
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 Retail Inventory Optimization
+30-day demand forecasting with Prophet, automated EOQ & safety-stock calculation, and price-sensitivity models in an interactive Streamlit app.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=flat-square&logo=meta&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-#### 🧵 [CraftMatch](https://github.com/anu091104/craftmatch)
-Full-stack AI matching system with a Flask + SQLAlchemy backend.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/anu091104?tab=repositories"><b>See all repositories →</b></a></p>
+**More work:** 📈 **Stock Sentiment Analysis** — TextBlob sentiment features + Random Forest, evaluated with ROC &nbsp;•&nbsp; 💰 **Expense Tracker** — Flask REST APIs with MongoDB aggregation insights
+
+<p align="center"><a href="https://anu091104.github.io/#projects"><b>See everything on my portfolio →</b></a></p>
 
 ---
 
@@ -125,12 +108,12 @@ Full-stack AI matching system with a Flask + SQLAlchemy backend.
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,solidity&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql&theme=dark" alt="languages"/>
 </p>
 
 **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb&theme=dark" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,mongodb&theme=dark" alt="backend"/>
 </p>
 
 **Frontend**
@@ -145,21 +128,22 @@ Full-stack AI matching system with a Flask + SQLAlchemy backend.
 
 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,postman,vscode&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,postman,vscode&theme=dark" alt="tools"/>
 </p>
 
-<sub>Also: Pandas • NumPy • Matplotlib • Seaborn • Prophet • Streamlit • SQLAlchemy • Hardhat</sub>
+<sub>Also: Pandas • NumPy • Matplotlib • Prophet • Streamlit • SQLAlchemy • Gemini API • REST APIs • JWT / RBAC</sub>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
+<!-- These images are generated inside this repo by .github/workflows/profile-stats.yml.
+     Run that workflow once from the Actions tab and they appear. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anu091104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9A66B&icon_color=C9A66B&text_color=c9d1d9&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu091104&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9A66B&text_color=c9d1d9&langs_count=6" alt="top languages"/>
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
 </p>
 
-<!-- Snake animation: works after you add .github/workflows/snake.yml and run it once -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anu091104/anu091104/output/github-snake-dark.svg"/>
