@@ -16,6 +16,10 @@
   <a href="https://anu091104.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-1f2937?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
+   <p align="center">
+     🌐 <b>Portfolio:</b> <a href="https://anu091104.github.io"><b>anu091104.github.io</b></a>
+   </p>
+
 ---
 
 ### 👩‍💻 About Me
